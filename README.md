@@ -7,7 +7,7 @@
 
 <h3>Projects</h3>
 
-- 🌎 Check out my portfolio <a href="https://troopl.com/florianautricque" target="blank" />
+- 🌎 Check out <a href="https://troopl.com/florianautricque" target="_blank"> my portfolio </a>
 
 - 📫 How to reach me **fautricque@gmail.com**
 
