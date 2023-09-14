@@ -7,7 +7,7 @@
 
 <h3>Projects</h3>
 
-- 🌎 Check out <a href="https://florianautricque.netlify.app/" target="_blank">my portfolio</a>
+- 🌎 Check out <a target="_blank" href="https://florianautricque.netlify.app/">my portfolio</a>
 
 - 📫 How to reach me **fautricque@gmail.com**
 
