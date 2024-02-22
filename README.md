@@ -1,4 +1,4 @@
-8<h1 align="center">Hello 👋 - I'm Florian 😃</h1>
+<h1 align="center">Hello 👋 - I'm Florian 😃</h1>
 <h3 align="center">Full Stack Developer | Front End Developer ✨</h3>
 
 <h3>About Me</h3>
