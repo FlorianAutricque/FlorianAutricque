@@ -1,18 +1,15 @@
 <h1 align="center">Hello 👋 - I'm Florian 😃</h1>
-<h3 align="center">Full Stack Developer | Front End Developer ✨</h3>
+<h3 align="center">Front End Developer ✨</h3>
 
 <h3>About Me</h3>
 
-👋 I am a proficient full stack developer with a specialization in front-end development. I possess a strong desire to continuously enhance my coding skills and eagerly embrace opportunities for learning ✌️
+👋 I am a proficient web developer with a specialization in front-end development. I possess a strong desire to continuously enhance my coding skills and eagerly embrace opportunities for learning ✌️
 
 <h3>Projects</h3>
 
 - 🌎 Check out <a target="_blank" href="https://fautcq.com">my portfolio</a>
 
 - 📫 How to reach me **fautricque@gmail.com**
-
-- ⚡ Fun fact **I managed over 150 people on my previous job**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
