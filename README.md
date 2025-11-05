@@ -3,11 +3,11 @@
 
 <h3>About Me</h3>
 
-👋 I am a proficient web developer with a specialization in front-end development. I possess a strong desire to continuously enhance my coding skills and eagerly embrace opportunities for learning ✌️
+👋 I am a product designer and frontend developer ✌️
 
 <h3>Projects</h3>
 
-- 🌎 Check out <a target="_blank" href="https://fautcq.com">my portfolio</a>
+- 🌎 Check out <a target="_blank" href="https://www.floautcq.com/">my portfolio</a>
 
 - 📫 How to reach me **fautricque@gmail.com**
 
