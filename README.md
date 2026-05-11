@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋 - I'm Florian 😃</h1>
-<h3 align="center">Front End Developer ✨</h3>
+<h3 align="center">Product Designer & Front End Developer</h3>
 
 <h3>About Me</h3>
 
